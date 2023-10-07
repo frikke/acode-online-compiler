@@ -19,7 +19,7 @@
 		"autoprefixer": "^10.4.13",
 		"babel-loader": "^9.1.0",
 		"live-server": "^1.2.2",
-		"postcss": "^8.4.20",
+		"postcss": "^8.4.31",
 		"postcss-loader": "^7.0.2",
 		"raw-loader": "^4.0.2",
 		"sass": "^1.57.1",
